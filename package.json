@@ -1,0 +1,10 @@
+{
+  "name": "parcel-import-pug-error",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "devDependencies": {
+    "pug": "^2.0.3",
+    "typescript": "^2.9.2"
+  }
+}
